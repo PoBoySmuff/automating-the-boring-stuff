@@ -1,0 +1,15 @@
+spam = 1
+if spam == 1:
+    print('Hello')
+elif spam == 2:
+    print('Howdy')
+else:
+    print('Greetings!')
+
+for i in range(10):
+    print((str(i+1)))
+
+num = 1
+while num < 11:
+    print(num)
+    num+=1
